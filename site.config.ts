@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: "Wilton Kuang's Blog",
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Wilton Kuang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Data craftsman building human-centered insights from noise. Focused on healthcare & social security. Keen on mining, modeling & storytelling.',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
