@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Wilton Kuang's Blog",
+  name: "Wilton's Blog",
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Wilton Kuang',
 
